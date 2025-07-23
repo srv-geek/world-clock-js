@@ -36,7 +36,7 @@ open index.html
 world-clock/
 ├── index.html          # Main HTML file
 ├── world-clock.js      # JavaScript functionality
-├── styles.css          # CSS styles (optional separate file)
+├── styles.css          # CSS styles 
 └── README.md          # Project documentation
 ```
 
