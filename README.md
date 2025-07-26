@@ -2,7 +2,6 @@
 
 A beautiful, interactive world clock application that displays time for different countries with a smooth slideshow interface. Built with pure HTML, CSS, and JavaScript.
 
-<!-- Add your screenshot -->
 
 ## ✨ Features
 
@@ -28,7 +27,7 @@ open index.html
 
 ## 🌎 Supported Countries
 
-🇺🇸 USA -  🇬🇧 UK -  🇮🇳 India -  🇯🇵 Japan -  🇦🇺 Australia -  🇫🇷 France -  🇩🇪 Germany -  🇨🇦 Canada
+🇮🇳 India -  🇺🇸 USA -  🇬🇧 UK -  🇯🇵 Japan -  🇦🇺 Australia -  🇫🇷 France -  🇩🇪 Germany -  🇷🇺 Russia
 
 ## 📁 Project Structure
 
@@ -36,7 +35,7 @@ open index.html
 world-clock/
 ├── index.html          # Main HTML file
 ├── world-clock.js      # JavaScript functionality
-├── styles.css          # CSS styles (optional separate file)
+├── styles.css          # CSS styles 
 └── README.md          # Project documentation
 ```
 
@@ -96,10 +95,6 @@ world-clock/
 
 MIT License - Feel free to use and modify!
 
-## 🙏 Credits
-
-- Flags by [flagcdn.com](https://flagcdn.com)
-- Fonts by [Google Fonts](https://fonts.google.com)
 
 <div align="center">
 
